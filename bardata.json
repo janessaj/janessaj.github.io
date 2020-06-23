@@ -1,0 +1,21 @@
+[
+
+    {"desc": "A", "value": 80.0},
+
+    {"desc": "B", "value": 90.0},
+
+    {"desc": "C", "value": 95.0},
+
+    {"desc": "D", "value": 100.0},
+
+    {"desc": "E", "value": 110.0},
+
+    {"desc": "F", "value": 120},
+
+    {"desc": "G", "value": 130},
+
+    {"desc": "H", "value": 140},
+
+    {"desc": "I", "value": 150}
+
+]
